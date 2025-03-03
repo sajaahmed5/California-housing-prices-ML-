@@ -26,18 +26,13 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ```
 
 ## Usage
-Run the Jupyter Notebook or Python script to execute the workflow:
-```bash
-python housing_price_prediction.py
-```
+Run the Jupyter Notebook to execute the workflow:
 
 ## Project Structure
 ```
 California-housing-prices-ML/
-│-- data/                         # Dataset files (if applicable)
-│-- housing_price_prediction.py    # Main script for model training
-│-- HousingPrices.ipynb            # Jupyter Notebook with detailed explanations
-│-- README.md                      # Project documentation
+│-- california-housing-prices.ipynb # Jupyter Notebook with detailed explanations
+│-- README.md                       # Project documentation
 ```
 
 ## Results
